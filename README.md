@@ -1,5 +1,5 @@
 # Kek-Server
-Setup of a linux serer for private hosting if services.
+Setup of a linux server for private hosting of different services
 
 ## Checkout
 
